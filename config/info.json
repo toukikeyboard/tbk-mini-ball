@@ -1,6 +1,6 @@
 {
-  "id": "charybdis",
-  "name": "charybdis",
+  "id": "tbk-mini-ball",
+  "name": "tbk-mini-ball",
   "layouts": {
     "LAYOUT": {
       "layout": [
@@ -277,17 +277,8 @@
         {
           "row": 3,
           "col": 7,
-          "x": 12.5,
-          "y": 4.75,
-          "r": -30,
-          "rx": 13,
-          "ry": 4.25
-        },
-        {
-          "row": 3,
-          "col": 8,
-          "x": 13.75,
-          "y": 5,
+          "x": 11.25,
+          "y": 5.25,
           "r": -30,
           "rx": 13,
           "ry": 4.25
